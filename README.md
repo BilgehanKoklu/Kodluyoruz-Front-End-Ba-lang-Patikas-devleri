@@ -1,1 +1,1 @@
-# Kodluyoruz-Front-End-Ba-lang-Patikas-devleri
+# Kodluyoruz-Front-End-Baslangic-Patikasi_Odevleri
